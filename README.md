@@ -20,13 +20,13 @@ This project uses Streamlit for the user interface, OpenAI's model for generatin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/clarencemun/talerswift_streamlit.git
+   git clone https://github.com/clarencemun/GA_capstone_taler_swift.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd taler-swift
+   cd GA_capstone_taler_swift
    ```
 
 3. Install the required dependencies:
@@ -38,7 +38,7 @@ This project uses Streamlit for the user interface, OpenAI's model for generatin
 4. Run the Streamlit application:
 
    ```bash
-   streamlit run talerswift_streamlit.py
+   streamlit run talerswift.py
    ```
 
 ## Usage
@@ -57,7 +57,7 @@ Both tabs share a common sidebar for language selection, illustration, and audio
 
 ## Customisation
 
-The application's appearance can be customised through CSS injected via the Streamlit markdown functionality. The background image, text styling, and fonts are defined within the `talerswift_streamlit.py` file under the `<style>` tag.
+The application's appearance can be customised through CSS injected via the Streamlit markdown functionality. The background image, text styling, and fonts are defined within the `talerswift.py` file under the `<style>` tag.
 
 ## Dependencies
 
