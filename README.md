@@ -1,4 +1,4 @@
-# TaleR Swift - Storytelling Application
+# TaleR Swift - Creating Children's Tales Swiftly
 
 ## Description
 
