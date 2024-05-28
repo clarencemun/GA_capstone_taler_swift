@@ -1,5 +1,7 @@
 # TaleR Swift - Creating Children's Tales Swiftly
 
+![App screenshot](screenshot.png)
+
 ## Description
 
 TaleR Swift is a storytelling application designed to generate engaging stories for children. The application offers a range of genres and languages, and it allows users to create personalised stories with illustrations and audio narration. 
