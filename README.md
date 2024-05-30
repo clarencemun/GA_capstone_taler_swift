@@ -8,7 +8,7 @@ TaleR Swift is a storytelling application designed to generate engaging stories 
 
 This project uses Streamlit for the user interface, OpenAI's model for generating stories, and the Google Text-to-Speech (gTTS) engine for audio narration. The app is a creative and interactive platform for children’s storytelling.
 
-You will need an OpenAI API key for this project.
+You will need an OpenAI API key and Ollama with Llama3:8b running in the background for this project.
 
 ## Features
 
