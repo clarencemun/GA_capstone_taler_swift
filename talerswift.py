@@ -91,8 +91,7 @@ client = OpenAI()
 # Define the list of available genres and languages
 genres = [
     "Children's Educational Story", "Fairy Tale", "Adventure Story",
-    "Science Fiction for Kids", "Fantasy Story", "Mystery and Detective Story", 
-    "Ancient Mythology and Legends", "Superhero Story"
+    "Science Fiction for Kids", "Fantasy Story", "Mystery and Detective Story", "Superhero Story"
 ]
 languages = ['English', '中文', 'Melayu']
 
